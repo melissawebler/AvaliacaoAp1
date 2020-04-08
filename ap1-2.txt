@@ -1,0 +1,21 @@
+git clone https://github.com/melissawebler/AvaliacaoAp1.git
+
+ls
+
+cd
+
+git add ap1-1 txt & git add ap1.txt
+
+git add
+
+git commit -m " "
+
+git checkout revisao
+
+touch ap1-2.txt
+
+git add
+
+git commit -m " "
+
+git push
